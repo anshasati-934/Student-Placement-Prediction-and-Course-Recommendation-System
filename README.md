@@ -112,14 +112,14 @@ Akshat Shah (23)
 
 Abishek Choudhary (21)
 
-Supervised by:
+## Supervised by:
 
 Dr. Shubhangi Neware
 Shri Ramdeobaba College of Engineering and Management, Nagpur
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 We are thankful to the Department of Computer Science and Engineering at RCOEM for guidance and resources. Special thanks to our guide Dr. Shubhangi Neware for her mentorship throughout this project.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
