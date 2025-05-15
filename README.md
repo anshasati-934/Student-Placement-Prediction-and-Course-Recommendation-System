@@ -103,7 +103,8 @@ Similarity Analysis: Cosine Similarity
 
 Evaluation Metrics: Accuracy, Precision, Recall
 
-👨‍💻 Contributors
+## 👨‍💻 Contributors
+
 Anurag Chorghade (28)
 
 Ansh Asati (26)
