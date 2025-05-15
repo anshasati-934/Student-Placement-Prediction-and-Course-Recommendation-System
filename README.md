@@ -44,7 +44,6 @@ It also uses real-time job data and clustering mechanisms to offer interactive d
 | Visualization       | Plotly, Dash                    |
 | Database            | SQLite / MySQL                  |
 | APIs                | Adzuna API (Jobs), OpenAI (NLP) |
-| Hosting             | Render / PythonAnywhere         |
 
 ## 📸 Screenshots
 
@@ -55,8 +54,6 @@ It also uses real-time job data and clustering mechanisms to offer interactive d
 | 🧠 Prediction & Recommendation  | Prediction result with skill roadmap |
 | 🔍 Company-based Skill Suggest  | Based on job market API              |
 | 📊 Real-Time Clustering         | Dash-powered visual clusters         |
-
-> Note: Images are available in the `/screenshots` folder of this repo.
 
 ## 🏗️ Project Architecture
 
@@ -124,4 +121,5 @@ Shri Ramdeobaba College of Engineering and Management, Nagpur
 We are thankful to the Department of Computer Science and Engineering at RCOEM for guidance and resources. Special thanks to our guide Dr. Shubhangi Neware for her mentorship throughout this project.
 
 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
